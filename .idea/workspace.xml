@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8132f03d-f562-473c-8e7a-c29b43042b18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CopyingFiles/resources/File1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CopyingFiles/resources/File2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simpleGraphicsTest/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simpleGraphicsTest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simpleGraphicsTest/out/production/simpleGraphicsTest/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/../simpleGraphicsTest/out/production/simpleGraphicsTest/Field.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simpleGraphicsTest/out/production/simpleGraphicsTest/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../simpleGraphicsTest/out/production/simpleGraphicsTest/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simpleGraphicsTest/simpleGraphicsTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../simpleGraphicsTest/simpleGraphicsTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simpleGraphicsTest/src/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simpleGraphicsTest/src/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simpleGraphicsTest/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simpleGraphicsTest/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simpleGraphicsTest/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simpleGraphicsTest/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Season1/HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Season1/HelloWorld/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2X1rvFCY2ew4ciuTbtUuYT2dYiM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/codecadet/Documents/my-exercises/my-repo/Projects/Java/Paint&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Paint" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8132f03d-f562-473c-8e7a-c29b43042b18" name="Changes" comment="" />
+      <created>1697807657726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697807657726</updated>
+      <workItem from="1697807658955" duration="2862000" />
+      <workItem from="1697811545379" duration="11383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
